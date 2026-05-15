@@ -1,0 +1,142 @@
+[
+  {
+    "id": "P01",
+    "platform": "Twitter/X",
+    "text": "Been waiting 9 days for my Deriv withdrawal. Support keeps saying 'under review'. I'm posting here because they're ignoring my tickets. #Deriv #scam",
+    "timestamp": "2025-04-10T08:15:00Z",
+    "engagement": { "likes": 12, "replies": 4, "reposts": 8 }
+  },
+  {
+    "id": "P02",
+    "platform": "Reddit r/Forex",
+    "text": "Deriv's spreads on EUR/USD have noticeably widened over the last 2 weeks. Anyone else seeing this? Starting to look at alternatives.",
+    "timestamp": "2025-04-10T09:02:00Z",
+    "engagement": { "upvotes": 47, "comments": 23 }
+  },
+  {
+    "id": "P03",
+    "platform": "Twitter/X",
+    "text": "Shoutout to @Deriv_Official — their support team sorted my issue in under an hour. Rare to see that level of service from a broker.",
+    "timestamp": "2025-04-10T10:45:00Z",
+    "engagement": { "likes": 31, "reposts": 5 }
+  },
+  {
+    "id": "P04",
+    "platform": "Telegram (public group)",
+    "text": "Is Deriv regulated in South Africa? My friend said they got blocked from withdrawing because of some new regulation.",
+    "timestamp": "2025-04-10T11:00:00Z",
+    "engagement": { "reactions": 6 }
+  },
+  {
+    "id": "P05",
+    "platform": "Reddit r/binaryoptions",
+    "text": "Anyone noticed Deriv Bot is giving inconsistent results compared to backtests? My live strategy is performing about 40% worse than the backtest showed.",
+    "timestamp": "2025-04-10T11:30:00Z",
+    "engagement": { "upvotes": 89, "comments": 41 }
+  },
+  {
+    "id": "P06",
+    "platform": "Twitter/X",
+    "text": "Deriv just added PIX payment in Brazil finally!! Been waiting for this for so long. @Deriv_Official",
+    "timestamp": "2025-04-10T12:00:00Z",
+    "engagement": { "likes": 204, "reposts": 67 }
+  },
+  {
+    "id": "P07",
+    "platform": "Trustpilot review",
+    "text": "My account was suspended without explanation 3 weeks ago. I have over $12,000 in there. My lawyer has been notified and I will be filing a formal complaint with the regulator if this is not resolved within 48 hours.",
+    "timestamp": "2025-04-10T12:15:00Z",
+    "engagement": { "helpful_votes": 18 }
+  },
+  {
+    "id": "P08",
+    "platform": "Twitter/X",
+    "text": "lol at people still using Deriv. Any serious trader moved to proper platforms years ago. #amateurhour",
+    "timestamp": "2025-04-10T13:00:00Z",
+    "engagement": { "likes": 3, "replies": 7 }
+  },
+  {
+    "id": "P09",
+    "platform": "Reddit r/Forex",
+    "text": "Second post I've seen this week about Deriv spreads widening on major pairs. Is this a policy change or a technical issue?",
+    "timestamp": "2025-04-10T13:30:00Z",
+    "engagement": { "upvotes": 34, "comments": 12 }
+  },
+  {
+    "id": "P10",
+    "platform": "Facebook group (Forex Malaysia)",
+    "text": "Adakah sesiapa tahu kenapa Deriv minta dokumen tambahan tiba-tiba? Saya dah lulus KYC sebelum ini.",
+    "timestamp": "2025-04-10T14:00:00Z",
+    "engagement": { "reactions": 29, "comments": 15 }
+  },
+  {
+    "id": "P11",
+    "platform": "Twitter/X",
+    "text": "Deriv's new trading interface is actually really clean. The chart tools have improved massively in the last update.",
+    "timestamp": "2025-04-10T14:30:00Z",
+    "engagement": { "likes": 88, "reposts": 12 }
+  },
+  {
+    "id": "P12",
+    "platform": "Reddit r/binaryoptions",
+    "text": "Third person I know this month who had their Deriv account suspended with no reason given and large balance locked. Something is going on. Are they doing a mass KYC sweep?",
+    "timestamp": "2025-04-10T15:00:00Z",
+    "engagement": { "upvotes": 156, "comments": 67 }
+  },
+  {
+    "id": "P13",
+    "platform": "Trustpilot review",
+    "text": "Excellent platform for synthetic indices trading. Fast execution, fair pricing. Been using for 3 years.",
+    "timestamp": "2025-04-10T15:15:00Z",
+    "engagement": { "helpful_votes": 7 }
+  },
+  {
+    "id": "P14",
+    "platform": "Twitter/X",
+    "text": "Serious question: has anyone filed a successful chargeback against Deriv? Asking for a friend who's been locked out of $5k for 6 weeks.",
+    "timestamp": "2025-04-10T15:45:00Z",
+    "engagement": { "likes": 22, "replies": 31, "reposts": 14 }
+  },
+  {
+    "id": "P15",
+    "platform": "Reddit r/Forex",
+    "text": "EUR/USD spread on Deriv is now 1.8 pips during London session. A month ago it was 0.9. Anyone have an explanation?",
+    "timestamp": "2025-04-10T16:00:00Z",
+    "engagement": { "upvotes": 61, "comments": 28 }
+  },
+  {
+    "id": "P16",
+    "platform": "Facebook group (Nigeria Forex)",
+    "text": "Deriv Nigeria deposits via bank transfer have been failing for 3 days. Anyone else?",
+    "timestamp": "2025-04-10T16:30:00Z",
+    "engagement": { "reactions": 44, "comments": 37 }
+  },
+  {
+    "id": "P17",
+    "platform": "Twitter/X",
+    "text": "My Deriv account was suspended unfairly. I've been a customer for 4 years. #DerivScam #ConsumerRights",
+    "timestamp": "2025-04-10T17:00:00Z",
+    "engagement": { "likes": 19, "reposts": 11 }
+  },
+  {
+    "id": "P18",
+    "platform": "Telegram (public group)",
+    "text": "Anyone else using Deriv Bot with the RSI strategy getting weird results since last week's update? Feels like something changed in the execution engine.",
+    "timestamp": "2025-04-10T17:30:00Z",
+    "engagement": { "reactions": 33 }
+  },
+  {
+    "id": "P19",
+    "platform": "Reddit r/investing",
+    "text": "Balanced take: Deriv has good products but their compliance processes create a lot of friction. Worth it if you trade synthetic indices but frustrating for deposits/withdrawals.",
+    "timestamp": "2025-04-10T18:00:00Z",
+    "engagement": { "upvotes": 72, "comments": 19 }
+  },
+  {
+    "id": "P20",
+    "platform": "Twitter/X",
+    "text": "Heads up: seeing multiple posts about Deriv account suspensions and withdrawal delays in the last 48 hours. Could be a mass KYC sweep or compliance event. Deriv comms team needs to get ahead of this.",
+    "timestamp": "2025-04-10T18:30:00Z",
+    "engagement": { "likes": 91, "reposts": 44 }
+  }
+]
