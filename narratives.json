@@ -1,0 +1,42 @@
+[
+  {
+    "narrative_id": "N01",
+    "title": "Suspected Mass Account Suspension and KYC Sweep",
+    "supporting_post_ids": [
+      "P01",
+      "P04",
+      "P07",
+      "P10",
+      "P12",
+      "P14",
+      "P17",
+      "P20"
+    ],
+    "narrative_strength": "strong",
+    "estimated_hours_until_trending": 4,
+    "recommended_action": "Issue an official statement clarifying recent compliance/KYC updates and prioritize the backlog of high-balance ($10k+) account reviews to mitigate legal risk."
+  },
+  {
+    "narrative_id": "N02",
+    "title": "Systemic EUR/USD Spread Widening Dissatisfaction",
+    "supporting_post_ids": [
+      "P02",
+      "P09",
+      "P15"
+    ],
+    "narrative_strength": "moderate",
+    "estimated_hours_until_trending": 12,
+    "recommended_action": "Audit liquidity provider pricing and technical feed stability for major forex pairs to address specific user claims of 100% spread increases."
+  },
+  {
+    "narrative_id": "N03",
+    "title": "Deriv Bot Performance and Execution Engine Inconsistency",
+    "supporting_post_ids": [
+      "P05",
+      "P18"
+    ],
+    "narrative_strength": "moderate",
+    "estimated_hours_until_trending": 18,
+    "recommended_action": "Technical team to investigate recent API/execution engine updates for bugs causing live trading slippage compared to backtest results."
+  }
+]

@@ -1,0 +1,157 @@
+{
+  "total_posts": 20,
+  "sentiment_distribution": {
+    "negative": 12,
+    "positive": 4,
+    "neutral": 3,
+    "mixed": 1
+  },
+  "timeline": [
+    {
+      "post_id": "P01",
+      "timestamp": "2025-04-10T08:15:00Z",
+      "sentiment": "negative",
+      "urgency": "high",
+      "topic": "withdrawal"
+    },
+    {
+      "post_id": "P02",
+      "timestamp": "2025-04-10T09:02:00Z",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "spread_pricing"
+    },
+    {
+      "post_id": "P03",
+      "timestamp": "2025-04-10T10:45:00Z",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "general"
+    },
+    {
+      "post_id": "P04",
+      "timestamp": "2025-04-10T11:00:00Z",
+      "sentiment": "neutral",
+      "urgency": "low",
+      "topic": "regulatory"
+    },
+    {
+      "post_id": "P05",
+      "timestamp": "2025-04-10T11:30:00Z",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "product_feedback"
+    },
+    {
+      "post_id": "P06",
+      "timestamp": "2025-04-10T12:00:00Z",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "deposit"
+    },
+    {
+      "post_id": "P07",
+      "timestamp": "2025-04-10T12:15:00Z",
+      "sentiment": "negative",
+      "urgency": "critical",
+      "topic": "account_suspension"
+    },
+    {
+      "post_id": "P08",
+      "timestamp": "2025-04-10T13:00:00Z",
+      "sentiment": "negative",
+      "urgency": "low",
+      "topic": "general"
+    },
+    {
+      "post_id": "P09",
+      "timestamp": "2025-04-10T13:30:00Z",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "spread_pricing"
+    },
+    {
+      "post_id": "P10",
+      "timestamp": "2025-04-10T14:00:00Z",
+      "sentiment": "neutral",
+      "urgency": "medium",
+      "topic": "kyc"
+    },
+    {
+      "post_id": "P11",
+      "timestamp": "2025-04-10T14:30:00Z",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "product_feedback"
+    },
+    {
+      "post_id": "P12",
+      "timestamp": "2025-04-10T15:00:00Z",
+      "sentiment": "negative",
+      "urgency": "high",
+      "topic": "account_suspension"
+    },
+    {
+      "post_id": "P13",
+      "timestamp": "2025-04-10T15:15:00Z",
+      "sentiment": "positive",
+      "urgency": "low",
+      "topic": "product_feedback"
+    },
+    {
+      "post_id": "P14",
+      "timestamp": "2025-04-10T15:45:00Z",
+      "sentiment": "negative",
+      "urgency": "high",
+      "topic": "account_suspension"
+    },
+    {
+      "post_id": "P15",
+      "timestamp": "2025-04-10T16:00:00Z",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "spread_pricing"
+    },
+    {
+      "post_id": "P16",
+      "timestamp": "2025-04-10T16:30:00Z",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "deposit"
+    },
+    {
+      "post_id": "P17",
+      "timestamp": "2025-04-10T17:00:00Z",
+      "sentiment": "negative",
+      "urgency": "high",
+      "topic": "account_suspension"
+    },
+    {
+      "post_id": "P18",
+      "timestamp": "2025-04-10T17:30:00Z",
+      "sentiment": "negative",
+      "urgency": "medium",
+      "topic": "technical"
+    },
+    {
+      "post_id": "P19",
+      "timestamp": "2025-04-10T18:00:00Z",
+      "sentiment": "mixed",
+      "urgency": "low",
+      "topic": "general"
+    },
+    {
+      "post_id": "P20",
+      "timestamp": "2025-04-10T18:30:00Z",
+      "sentiment": "neutral",
+      "urgency": "high",
+      "topic": "general"
+    }
+  ],
+  "inflection_point": {
+    "at_post_id": "P01",
+    "timestamp": "2025-04-10T08:15:00Z",
+    "description": "Negative cluster: 2/3 posts negative"
+  },
+  "sentiment_arc": "predominantly_negative"
+}
